@@ -1,0 +1,17 @@
+# Credentials
+.env
+
+# Environments
+venv/
+.venv/
+env/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Local Database & Data
+storage/*.db
+datasets/*.csv
+analysis/embeddings/*.npz
+output/

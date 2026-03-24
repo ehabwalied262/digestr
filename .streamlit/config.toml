@@ -1,0 +1,18 @@
+[theme]
+# Force Dark Mode
+base = "dark"
+
+# Primary Accent: Electric Blue (Replaces the sage green)
+primaryColor = "#0078D7"
+
+# Background: Deep Charcoal (Like Discord's dark mode, incredibly sleek)
+backgroundColor = "#121212"
+
+# Secondary Background: Slightly lighter charcoal for input boxes and toolbars
+secondaryBackgroundColor = "#1E1E1E"
+
+# Text: Crisp Off-White (High contrast, easy to read)
+textColor = "#EAEAEA"
+
+# Font: Clean, modern sans-serif
+font = "sans serif"

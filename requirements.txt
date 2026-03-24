@@ -1,0 +1,17 @@
+instaloader>=4.10
+yt-dlp>=2024.01
+supadata>=1.6
+groq>=0.5.0
+python-dotenv>=1.0
+pyyaml>=6.0.1
+browser-cookie3>=0.19.1
+
+# AI & Transcription
+faster-whisper
+
+# UI & Environment
+rich
+
+# API & Utils
+requests
+pyyaml
